@@ -1,0 +1,14 @@
+com.teleca.jamendo
+com.teleca.jamendo.activity
+com.teleca.jamendo.adapter
+com.teleca.jamendo.api
+com.teleca.jamendo.api.impl
+com.teleca.jamendo.api.util
+com.teleca.jamendo.db
+com.teleca.jamendo.dialog
+com.teleca.jamendo.gestures
+com.teleca.jamendo.media
+com.teleca.jamendo.service
+com.teleca.jamendo.util
+com.teleca.jamendo.util.download
+com.teleca.jamendo.widget
